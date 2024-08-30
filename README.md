@@ -33,13 +33,6 @@
 
 Bu eklenti, müşteri etkileşimini artırmak isteyen her türlü web sitesi için idealdir. Özellikle müşteri hizmetleri, teknik destek ve satış departmanları ile kullanıcılar arasında hızlı bir iletişim kanalı sağlamak isteyen işletmeler için mükemmeldir.
 
-## Fiyatlandırma
-
-Eklentiyi tek seferlik bir ödeme ile satın alabilir, güncellemelerden ve destekten faydalanabilirsiniz.
-
-## Destek ve Güncellemeler
-
-Eklenti sürekli olarak güncellenmekte olup, lisans süresi boyunca ücretsiz teknik destek ve güncelleme hizmeti sunulmaktadır.
 
 ## Ekran Görüntüleri
 
